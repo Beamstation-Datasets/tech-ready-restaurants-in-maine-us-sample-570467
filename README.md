@@ -9,9 +9,9 @@
 | Dataset ID | `570467` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-08T04:20:08.146121+00:00 |
+| Full dataset size | 2 records |
+| Free sample size | 1 records (50.0%) |
+| Last export | 2026-04-15T08:59:50.361128+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-maine-us-sample-570467/releases/download/sample-latest/beamstation_570467_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
