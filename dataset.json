@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in Maine, US",
-  "export_job_id": "eccd8d7e-1d2d-4167-9b30-7291ffe2cee2",
+  "export_job_id": "56f90527-9eff-41b7-ab48-98b00a783482",
   "github_org": "Beamstation-Datasets",
   "id_short": 570467,
   "location_name": "Maine",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-maine-us-sample-570467",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/570467/beamstation_570467_restaurants-us-me_SAMPLE_DIST.csv",
-  "sample_pct": 25.0,
+  "sample_pct": 50.0,
   "sample_records": 1,
-  "sample_sha256": "8c0017aeadd8c4eb80f3d05835ec7860c0a6eb5932d759a8917ac890e551abbf",
-  "sample_size_bytes": 20238,
-  "total_records": 4,
-  "updated_at": "2026-04-08T04:20:08.146121+00:00"
+  "sample_sha256": "c9755609dcb7ddf008acf257ce50ba3070b76863624042f8b34bc498a81d8500",
+  "sample_size_bytes": 20243,
+  "total_records": 2,
+  "updated_at": "2026-04-15T08:59:50.361128+00:00"
 }
